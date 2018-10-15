@@ -4,6 +4,9 @@ Awesome CAD Lab
 
 ![BUPT CAD Lab 2017 - 2018 Party](https://bupt.github.io/awesome-cad/images/bupt-cad-2017-2018-hd.jpg)
 
+1. **C**loud
+1. **A**I
+1. **D**ata
 
 ## WHO WE ARE
 
