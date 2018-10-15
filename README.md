@@ -11,5 +11,5 @@ Awesome CAD Lab
 
 ## CONTACT US
 
-Huan LI (李卓桓) \<zixia@zixia.net\>
+Huan LI (李卓桓) \<huan@bupt.edu.cn\>
 
