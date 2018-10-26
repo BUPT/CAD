@@ -10,6 +10,7 @@ Awesome CAD Lab
 
 ## CAD PROJECTS
 
+1. [Awesome Chatbot Paper Club](https://github.com/bupt/awesome-chatbot)
 1. [CAD Board](https://github.com/bupt/cad-board)
 1. ...
 
