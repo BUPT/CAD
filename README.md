@@ -18,6 +18,7 @@ Awesome CAD Lab
 ```
 
 1. [Awesome Chatbot Club](https://github.com/bupt/awesome-chatbot)
+1. [Awesome Face](https://github.com/BUPT/awesome-face) (Private. Contact Huan to join)
 1. [CAD Board](https://github.com/bupt/cad-board)
 1. ...
 
