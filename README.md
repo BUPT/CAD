@@ -1,12 +1,12 @@
 # awesome-cad
 
-Awesome CAD Lab
+Awesome CAD Lab - 云智库
 
 ![BUPT CAD Lab 2017 - 2018 Party](https://bupt.github.io/awesome-cad/images/bupt-cad-2017-2018-hd.jpg)
 
-1. **C**loud
-1. **A**I
-1. **D**ata
+1. **C**loud（云）
+1. **A**I（智）
+1. **D**ata（库）
 
 ## CAD PROJECTS
 
