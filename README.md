@@ -1,12 +1,5 @@
 # awesome-cad
 
-[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
-
-**Badge Code**
-```
-[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
-```
-
 Awesome CAD Lab
 
 ![BUPT CAD Lab 2017 - 2018 Party](https://bupt.github.io/awesome-cad/images/bupt-cad-2017-2018-hd.jpg)
@@ -16,6 +9,13 @@ Awesome CAD Lab
 1. **D**ata
 
 ## CAD PROJECTS
+
+[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+
+**Badge Code**
+```
+[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+```
 
 1. [Awesome Chatbot Club](https://github.com/bupt/awesome-chatbot)
 1. [CAD Board](https://github.com/bupt/cad-board)
