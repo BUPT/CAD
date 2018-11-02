@@ -17,10 +17,10 @@ Awesome CAD Lab - 云智库
 [![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 ```
 
-1. [Full Stack Dev Starter: An App that Write Once, Run Anywhere.](https://github.com/bupt/wora-app)
+1. [An APP that Write Once, Run Anywhere.](https://github.com/bupt/wora-app)
 1. [Awesome Chatbot Club](https://github.com/bupt/awesome-chatbot)
 1. [Awesome Face](https://github.com/BUPT/awesome-face) (Private. Contact [Huan](https://github.com/zixia) to join)
-1. [An Open-Paper-Project is a project that we write paper like developing open source project](https://github.com/BUPT/open-paper-project) [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
+1. [Open Paper Project](https://github.com/BUPT/open-paper-project) [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 1. [CAD Board](https://github.com/bupt/cad-board)
 1. ...
 
