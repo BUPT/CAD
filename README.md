@@ -2,7 +2,7 @@
 
 Awesome CAD Lab - 云智库
 
-![BUPT CAD Lab 2017 - 2018 Party](https://bupt.github.io/awesome-cad/images/bupt-cad-2017-2018-hd.jpg)
+![BUPT CAD Lab 2017 - 2018 Party](https://bupt.github.io/cad/images/bupt-cad-2017-2018-hd.jpg)
 
 1. **C**loud（云）
 1. **A**I（智）
@@ -10,7 +10,7 @@ Awesome CAD Lab - 云智库
 
 ## CAD PROJECTS
 
-[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/cad)
 
 **Badge Code**
 ```
