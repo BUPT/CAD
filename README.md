@@ -20,7 +20,7 @@ Awesome Cloud, AI, and Cloud Lab - CAD云智库
 1. [An APP that Write Once, Run Anywhere.](https://github.com/bupt/wora-app)
 1. [Awesome Chatbot Club](https://github.com/bupt/awesome-chatbot)
 1. [Awesome Face](https://github.com/BUPT/awesome-face) (Private. Contact [Huan](https://github.com/zixia) to join)
-1. [Open Paper Project](https://github.com/BUPT/open-paper-project) [![Open Paper Project](https://img.shields.io/badge/%20-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
+1. [Open Paper Project](https://github.com/BUPT/open-paper-project) [![Open Paper Project](https://img.shields.io/badge/%F0%9F%93%B0-Open%20Paper%20Project-brightgreen.svg)](https://github.com/BUPT/open-paper-project)
 1. [CAD Board](https://github.com/bupt/cad-board)
 1. ...
 
