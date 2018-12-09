@@ -10,11 +10,11 @@ Awesome Cloud, AI, and Cloud Lab - CAD云智库
 
 ## CAD PROJECTS
 
-[![BUPT CAD Project](https://img.shields.io/badge/🎓-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/cad)
+[![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/cad)
 
 **Badge Code**
 ```
-[![BUPT CAD Project](https://img.shields.io/badge/🎓-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 ```
 
 1. [An APP that Write Once, Run Anywhere.](https://github.com/bupt/wora-app)
